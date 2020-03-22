@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace apli_backend.Repositories.Impl
 {
     using Models;
-
+    
     public class PersonneListRepository : PersonneRepository  // class contenant les méthodes qui ont le rôle de requêtes SQL déjà préparées
 
     {

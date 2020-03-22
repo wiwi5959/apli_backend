@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace apli_backend.Services.Impl
 {
     using Models;
-    using Repositories;
+    using Repositories.Impl;
 
     public class VoitureImplService : VoitureService
     {
         private static List<Voiture> voitures = new List<Voiture>();
         private PersonneService personneService;
-        private VoitureRepository repository;
+        public VoitureRepository repository;
 
 
         public IEnumerable<Voiture> TrouverTous()
@@ -28,19 +28,18 @@ namespace apli_backend.Services.Impl
 
         public Voiture Save(Voiture v)
         {
-            return this.repository.Save(voitures);
+            return this.repository.Save(v);
         }
 
         public Voiture Modifier(Voiture v)
         {
-            return this.repository.Update(voitures);
+            return this.repository.Update(v);
         }
-
 
         public void Supprimer(int id)
         {
 
-            return this.repository.Delete(id);
+             this.repository.Delete(id);
         }
     }
     
