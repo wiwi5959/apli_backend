@@ -5,10 +5,11 @@ using System.Threading.Tasks;
 
 namespace App.Models
 {
-    public class Etudiant
+    public class EnseignantModels
     {
         public int Id { get; set; }
         public string Nom { get; set; }
-        public string Prenom { get; set; }     
+        public string Prenom { get; set; }
     }
 }
+

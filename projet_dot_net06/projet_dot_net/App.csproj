@@ -17,4 +17,9 @@
 
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repository\Impl\" />
+    <Folder Include="Services\Impl\" />
+  </ItemGroup>
+
 </Project>

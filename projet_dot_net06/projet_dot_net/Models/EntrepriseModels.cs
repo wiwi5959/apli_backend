@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 
 namespace App.Models
 {
-    public class ConventionStage
+    public class EntrepriseModels
     {
+        public int Id { get; set; }
+        public string Nom { get; set; }
     }
 }
