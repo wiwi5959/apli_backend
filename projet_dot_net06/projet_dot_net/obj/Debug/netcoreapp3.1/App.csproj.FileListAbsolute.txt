@@ -22,3 +22,11 @@ C:\Dev\projet_dot_net\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\Ap
 C:\Dev\projet_dot_net\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cs
 C:\Dev\projet_dot_net\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
 C:\Dev\projet_dot_net\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.Manifest.cache
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.xml
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cache
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cs
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Dev\apli_backend\projet_dot_net06\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs

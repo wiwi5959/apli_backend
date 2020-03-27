@@ -6073,11 +6073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wilfried\\Desktop\\apli_backend\\apli_backend\\apli_backend.csproj",
+      "projectUniqueName": "C:\\Dev\\apli_backend\\apli_backend06\\apli_backend\\apli_backend.csproj",
       "projectName": "apli_backend",
-      "projectPath": "C:\\Users\\wilfried\\Desktop\\apli_backend\\apli_backend\\apli_backend.csproj",
+      "projectPath": "C:\\Dev\\apli_backend\\apli_backend06\\apli_backend\\apli_backend.csproj",
       "packagesPath": "C:\\Users\\wilfried\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wilfried\\Desktop\\apli_backend\\apli_backend\\obj\\",
+      "outputPath": "C:\\Dev\\apli_backend\\apli_backend06\\apli_backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

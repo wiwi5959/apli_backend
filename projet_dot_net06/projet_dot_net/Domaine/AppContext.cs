@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace projet_dot_net.Domaine
 {
-    public partial class AppContext : DbContext
+    public partial class appContext : DbContext
     {
-        public AppContext()
+        public appContext()
         {
         }
 
-        public AppContext(DbContextOptions<AppContext> options)
+        public appContext(DbContextOptions<appContext> options)
             : base(options)
         {
         }

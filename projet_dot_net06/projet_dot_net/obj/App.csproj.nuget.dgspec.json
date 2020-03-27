@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\projet_dot_net\\projet_dot_net06\\projet_dot_net\\App.csproj": {}
+    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\projet_dot_net\\projet_dot_net06\\projet_dot_net\\App.csproj": {
+    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\projet_dot_net\\projet_dot_net06\\projet_dot_net\\App.csproj",
+        "projectUniqueName": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Dev\\projet_dot_net\\projet_dot_net06\\projet_dot_net\\App.csproj",
+        "projectPath": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj",
         "packagesPath": "C:\\Users\\wilfried\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\projet_dot_net\\projet_dot_net06\\projet_dot_net\\obj\\",
+        "outputPath": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

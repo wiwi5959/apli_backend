@@ -4,15 +4,17 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using App.Domaine;
 
 namespace App.Repository
 {
+    
    
     public class CrudSQLRepository<T> : CrudRepository<T> where T : Model
     {
-        private AppContext context = null;
+        private System.App.Domaine.appContext context = null;
         private DbSet<T> table = null;
-        public CrudSQLRepository(AppContext context)
+        public CrudSQLRepository(System.App.Domaine.appContext context)
         {
             this.context = context;
             this.table = context.Set<T>(); // context.Chercheur;

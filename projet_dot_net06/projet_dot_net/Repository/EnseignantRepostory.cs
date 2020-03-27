@@ -5,14 +5,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace projet_dot_net.Repository
 {
+    using App.Domaine;
     
-    public class EnseignantRepository : CrudRepository<Enseignant>
+    public class Enseignant : CrudRepository <Enseignant>
     {
-        private AppContext context;
+        private System.App.Domaine.appContext context;
 
-        public EnseignantRepository(AppContext context)
+        public Enseignant(System.App.Domaine.appContext context)
         {
             this.context = context;
         }
@@ -25,14 +27,14 @@ namespace projet_dot_net.Repository
         public IQueryable<Enseignant> FindAll()
         {
           
-            return this.context.Chercheur;
+            return this.context.Enseignant;
         }
 
         public Enseignant FindByID(int id)
         {
            
-            return this.context.Chercheur
-                .Where(chercheur => chercheur.Id == id)
+            return this.context.Enseignant
+                .Where(enseignant => enseignant.Id == id)
                 .First();
         }
 
