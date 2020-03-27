@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj": {}
+    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\app.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj": {
+    "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj",
-        "projectName": "App",
-        "projectPath": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\App.csproj",
+        "projectUniqueName": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\app.csproj",
+        "projectName": "app",
+        "projectPath": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\app.csproj",
         "packagesPath": "C:\\Users\\wilfried\\.nuget\\packages\\",
         "outputPath": "C:\\Dev\\apli_backend\\projet_dot_net06\\projet_dot_net\\obj\\",
         "projectStyle": "PackageReference",
